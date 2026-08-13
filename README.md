@@ -3,8 +3,8 @@ End-to-end bioinformatics data pipeline utilizing Perl for parsing genomic varia
 
 # 🧬 Genomic Variant Data Ingestion &  Processing Pipeline
 
-[![RF App Live](https://shields.io)](YOUR_RF_STREAMLIT_URL)
-[![XGB App Live](https://shields.io)](YOUR_XGBOOST_STREAMLIT_URL)
+[![RF App Live](https://shields.io)](https://the-genomic-variant-classifier-randforest.streamlit.app/)
+[![XGB App Live](https://shields.io)](https://the-genomic-variant-classifier-xgboost.streamlit.app/)
 [![Perl](https://shields.io)](https://perl.org)
 [![SQL](https://shields.io)](https://sqlite.org)
 
